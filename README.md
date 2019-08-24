@@ -1,13 +1,13 @@
 #_-_--__--_-_-lisence-build 1.3_--_-_-----__--_--
 
-#This shader made by TRXDev. 
-#some of shader source maybe same like other shader as reference. 
-#
-#Respect the shader owner by NOT TO :
-#1.Use EVO logo as your shader or logo it self
-#2.Claim this shader as your shader
+This shader made by TRXDev. 
+some of shader source maybe same like other shader as reference. 
 
-3.Upload to any online uploader :
+Respect the shader owner by NOT TO :
+-1.Use EVO logo as your shader or logo it self
+-2.Claim this shader as your shader
+
+-3.Upload to any online uploader :
 (Please Just use the current link to support shader maker/owner) 
 
 4.Add EVO shader into texture pack and upload it :
